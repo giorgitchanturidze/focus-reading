@@ -1,0 +1,17 @@
+{
+    "name": "Focus Reading",
+    "version": "1.0.0",
+    "description": "Read more focus and less distraction",
+    "manifest_version": 3,
+    "author": "Giorgi Tchanturidze",
+    "action":{
+        "default_popup": "/src/index.html",
+        "default_title": "Focus Reading Mode"
+    },
+    "icons": {
+        "16": "/src/assets/logo.png",
+        "32": "/src/assets/logo.png",
+        "48": "/src/assets/logo.png",
+        "128": "/src/assets/logo.png"
+    }
+}
