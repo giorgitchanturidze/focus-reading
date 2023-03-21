@@ -13,5 +13,8 @@
         "32": "/src/assets/logo.png",
         "48": "/src/assets/logo.png",
         "128": "/src/assets/logo.png"
-    }
+    },
+    "permissions": [
+        "activeTab"
+    ]
 }
